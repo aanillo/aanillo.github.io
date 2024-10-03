@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(71, 70, 70);
+    color: white;
+    text-align: center;
+}
+
+h1{
+    border: 2px solid lightgreen;
+    color: lightgreen;
+    background-color: black;
+}
+
+
+h3 {
+    color: lightgreen;
+}
+
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;             
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
